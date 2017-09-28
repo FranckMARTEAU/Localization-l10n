@@ -5820,11 +5820,11 @@ msgstr ""
 
 #: shortcodes/fusion-blog.php:536
 msgid "Previous"
-msgstr ""
+msgstr "Prêcédement"
 
 #: shortcodes/fusion-blog.php:552
 msgid "Next"
-msgstr ""
+msgstr "Suivant"
 
 #: shortcodes/fusion-blog.php:1272
 msgid "Protected"
@@ -6017,7 +6017,7 @@ msgstr ""
 
 #: shortcodes/fusion-blog.php:2096
 msgid "Post Title"
-msgstr ""
+msgstr "Titre du post"
 
 #: shortcodes/fusion-blog.php:2097
 msgid "Post Slug"
@@ -6025,39 +6025,39 @@ msgstr ""
 
 #: shortcodes/fusion-blog.php:2098
 msgid "Author"
-msgstr ""
+msgstr "Auteur"
 
 #: shortcodes/fusion-blog.php:2099
 msgid "Number of Comments"
-msgstr ""
+msgstr "Nombre de commentaires"
 
 #: shortcodes/fusion-blog.php:2100
 msgid "Last Modified"
-msgstr ""
+msgstr "Dernière modification"
 
 #: shortcodes/fusion-blog.php:2101
 msgid "Random"
-msgstr ""
+msgstr "Aléatoire"
 
 #: shortcodes/fusion-blog.php:2106
 msgid "Order"
-msgstr ""
+msgstr "Ordre"
 
 #: shortcodes/fusion-blog.php:2107
 msgid "Defines the sorting order of posts."
-msgstr ""
+msgstr "Définir l'ordre des posts"
 
 #: shortcodes/fusion-blog.php:2111
 msgid "Descending"
-msgstr ""
+msgstr "descendant"
 
 #: shortcodes/fusion-blog.php:2112
 msgid "Ascending"
-msgstr ""
+msgstr "Ascendant"
 
 #: shortcodes/fusion-blog.php:2124 shortcodes/fusion-recent-posts.php:670
 msgid "Show Thumbnail"
-msgstr ""
+msgstr "Afficher les vignettes"
 
 #: shortcodes/fusion-blog.php:2125 shortcodes/fusion-recent-posts.php:671
 msgid "Display the post featured image."
@@ -6065,7 +6065,7 @@ msgstr ""
 
 #: shortcodes/fusion-blog.php:2135 shortcodes/fusion-recent-posts.php:688
 msgid "Show Title"
-msgstr ""
+msgstr "Afficher le titre"
 
 #: shortcodes/fusion-blog.php:2136 shortcodes/fusion-recent-posts.php:689
 msgid "Display the post title below the featured image."
